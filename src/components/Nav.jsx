@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div>Nav testing malcom</div>
+    <div>Nav testing second</div>
   )
 }
 
